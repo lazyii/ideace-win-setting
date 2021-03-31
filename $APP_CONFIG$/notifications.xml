@@ -1,0 +1,15 @@
+<application>
+  <component name="NotificationConfiguration" systemNotifications="false">
+    <notification groupId="Branch Context group" displayType="NONE" />
+    <notification groupId="Compiler" displayType="NONE" shouldLog="false" />
+    <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
+    <notification groupId="scrolling-capabilities-debug" displayType="NONE" shouldLog="false" />
+    <notification groupId="Unindexed maven repositories gradle detection" displayType="NONE" shouldLog="false" />
+    <notification groupId="Vcs Important Messages" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Vcs Messages" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="Vcs Notifications" shouldLog="false" />
+    <notification groupId="Vcs Silent Notifications" displayType="NONE" shouldLog="false" />
+    <notification groupId="Web Deployment" shouldLog="false" />
+    <notification groupId="Webpack" displayType="NONE" shouldLog="false" />
+  </component>
+</application>

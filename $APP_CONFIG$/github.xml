@@ -1,0 +1,12 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="56b53fe6-7539-4e67-b5ea-42fe68eb4333" name="lazyii">
+      <server host="github.com" />
+    </account>
+  </component>
+  <component name="GithubSettings">
+    <option name="OPEN_IN_BROWSER_GIST" value="false" />
+    <option name="PRIVATE_GIST" value="false" />
+    <option name="CLONE_GIT_USING_SSH" value="true" />
+  </component>
+</application>
