@@ -4,7 +4,7 @@
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
     </value>
   </option>
-  <option name="RIGHT_MARGIN" value="100" />
+  <option name="RIGHT_MARGIN" value="150" />
   <AndroidXmlCodeStyleSettings>
     <option name="USE_CUSTOM_SETTINGS" value="true" />
     <option name="LAYOUT_SETTINGS">
@@ -86,7 +86,6 @@
   </TypeScriptCodeStyleSettings>
   <XML>
     <option name="XML_ALIGN_ATTRIBUTES" value="false" />
-    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
   <codeStyleSettings language="CoffeeScript">
     <indentOptions>
@@ -94,6 +93,9 @@
       <option name="CONTINUATION_INDENT_SIZE" value="8" />
       <option name="TAB_SIZE" value="4" />
     </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Dart">
+    <option name="RIGHT_MARGIN" value="150" />
   </codeStyleSettings>
   <codeStyleSettings language="ECMA Script Level 4">
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
@@ -124,7 +126,6 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JAVA">
-    <option name="RIGHT_MARGIN" value="140" />
     <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />

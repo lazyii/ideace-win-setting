@@ -4,7 +4,7 @@
     <property name="created">2018-12-04T16:27:00</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.0.0</property>
-    <property name="modified">2019-05-30T15:53:52</property>
+    <property name="modified">2021-04-26T15:16:31</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <console-font>
@@ -13,21 +13,78 @@
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
   </console-font>
   <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="1.1" />
   <colors>
+    <option name="CONSOLE_BACKGROUND_KEY" value="3c3f41" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
     <option name="FILESTATUS_IDEA_SVN_REPLACED" value="629755" />
   </colors>
   <attributes>
+    <option name="CONSOLE_BLACK_OUTPUT" baseAttributes="CONSOLE_NORMAL_OUTPUT" />
+    <option name="CONSOLE_CYAN_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="6e6e" />
+      </value>
+    </option>
+    <option name="CONSOLE_CYAN_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="aaa4a4" />
+        <option name="BACKGROUND" value="154f4f" />
+      </value>
+    </option>
+    <option name="CONSOLE_DARKGRAY_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="b8b1b1" />
+        <option name="BACKGROUND" value="473939" />
+      </value>
+    </option>
+    <option name="CONSOLE_GRAY_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="a39e9e" />
+        <option name="BACKGROUND" value="0" />
+      </value>
+    </option>
+    <option name="CONSOLE_GREEN_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="5c962c" />
+        <option name="BACKGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="CONSOLE_RED_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="772e2c" />
+      </value>
+    </option>
+    <option name="CONSOLE_SYSTEM_OUTPUT">
+      <value />
+    </option>
+    <option name="CONSOLE_WHITE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="e2e2e2" />
+        <option name="BACKGROUND" value="212121" />
+      </value>
+    </option>
     <option name="HTML_CODE">
       <value />
     </option>
     <option name="KOTLIN_LABEL">
       <value />
+    </option>
+    <option name="LOG_EXPIRED_ENTRY">
+      <value>
+        <option name="FOREGROUND" value="8e8e8e" />
+      </value>
+    </option>
+    <option name="LOG_WARNING_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="927373" />
+      </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.BOLD_TEXT_CODE_TEXT">
       <value>
