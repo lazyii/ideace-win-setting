@@ -254,6 +254,10 @@
           <option name="url" value="https://github.com/greyovo/OnlyViewer.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/vert-x3/vertx-examples.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\IdeaProject00" />
