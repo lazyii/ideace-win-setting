@@ -62,6 +62,9 @@
   <action id="NewProjectFromVCS">
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
+  <action id="OpenInRightSplit">
+    <mouse-shortcut keystroke="alt button1 doubleClick" />
+  </action>
   <action id="OverrideMethods" />
   <action id="PackageFile" />
   <action id="RunClass" />
