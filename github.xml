@@ -3,6 +3,9 @@
     <account id="56b53fe6-7539-4e67-b5ea-42fe68eb4333" name="jna4usb">
       <server host="github.com" />
     </account>
+    <account id="7d75a32d-46c1-452e-ad0c-55d20ec7611c" name="lazyii">
+      <server host="github.com" />
+    </account>
   </component>
   <component name="GithubSettings">
     <option name="OPEN_IN_BROWSER_GIST" value="false" />
