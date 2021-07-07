@@ -290,6 +290,10 @@
           <option name="url" value="https://github.com/gary-rowe/hid4java.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/sialcasa/mvvmFX.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\IdeaProject00" />
