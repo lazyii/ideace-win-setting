@@ -302,6 +302,10 @@
           <option name="url" value="https://github.com/beryx-gist/badass-jlink-example-kotlin-tornadofx.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://172.30.3.50/basic-framework/nuonuo-basic-framework.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\IdeaProject00" />
