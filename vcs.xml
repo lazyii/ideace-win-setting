@@ -318,6 +318,10 @@
           <option name="url" value="http://172.30.3.50/elin-native-a/elin-native-a.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://172.30.3.50/nst/saas-signature" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\IdeaProject00" />
